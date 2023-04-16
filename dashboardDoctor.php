@@ -18,7 +18,7 @@
             </a>
         </nav>
         <?php
-    $con=mysqli_connect("34.131.230.83","root","admin@123");
+    $con=mysqli_connect("Google_SQL_ID","USERNAME","PASSWORD");
     if(!($con))
     {
         die("error in connecting to DB");
@@ -55,13 +55,11 @@
     mysqli_close($con);
 ?>
     <!--Doctor search want to implement but not enough patients-->
-    <!--form action="http://localhost/GFG-with-f/dashboardDoctor.php" method="post">
+    <!--form action="http://localhost/finale/dashboardDoctor.php" method="post">
         <label>Search Patient:</label>
         <input type="text" placeholder="Enter Aadhaar number"/>
         <button type="submit">Search</button>
     </form-->
-
-
     </section>
 </body>
 </html>

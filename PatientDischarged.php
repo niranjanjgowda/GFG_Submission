@@ -19,7 +19,7 @@
         </nav>
         <?php
         $pa_id = $_POST["patient_id"];
-        $con=mysqli_connect("34.131.230.83","root","admin@123");
+        $con=mysqli_connect("Google_SQL_ID","USERNAME","PASSWORD");
         if(!($con))
         {
             die("error in connecting to DB");

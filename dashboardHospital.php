@@ -20,7 +20,7 @@
 
         <?php
         $hos_id = $_POST["user"];
-        $con=mysqli_connect("34.131.230.83","root","admin@123");
+        $con=mysqli_connect("Google_SQL_ID","USERNAME","PASSWORD");
         if(!($con))
         {
             die("error in connecting to DB");
@@ -64,7 +64,7 @@
         ?>
 
         <div class="basicdetails card">
-            <form action="http://localhost/GFG-with-f/PatientAdmitted.php" method="POST">
+            <form action="http://localhost/finale/PatientAdmitted.php" method="POST">
             <label>Admit patient :</label>
             <input type="text" placeholder="Enter Aadhaar number" name="Aa_no"/>
             <input type="text" placeholder="Patient name" name="Pa_no"/>
@@ -78,7 +78,7 @@
         </div>
 
         <div class="basicdetails card">
-            <form action="http://localhost/GFG-with-f/PatientDischarged.php" method="POST">
+            <form action="http://localhost/finale/PatientDischarged.php" method="POST">
             <label style="display:inline;">Discharge patient :</label>
             <input type="text" name="patient_id" placeholder="Enter Patient number : "/>
             <button type="submit">Submit</button>
