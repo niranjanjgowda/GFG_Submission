@@ -106,6 +106,7 @@ GitHub - https://github.com/ahamednisham </br>
 LinkedIn - [@nishamahamed](https://www.linkedin.com/in/nishamahamed/) </br>
 
 <div class="images">
+  <h2>Amd Instance Used : <h2>
   <img src="AMD.png">
   <img src="Homepage.png">
   <img src="User DashBoard.png">
