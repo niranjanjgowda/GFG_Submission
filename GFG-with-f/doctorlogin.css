@@ -1,0 +1,146 @@
+/* Nav Start */
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    height: 100vh;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+nav ul{
+    display: flex;
+    width: 90%;
+}
+
+nav ul li a{
+    height: 40px;
+    line-height: 43px;
+    margin: 3px;
+    padding: 0 22px;
+    display: flex;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.6s ease-in-out;
+    color: black;
+}
+
+nav ul li a:hover{
+    background-color: #35bcbf;
+    color: #263849;
+    box-shadow: 5px 10px 30px #258586;
+}
+
+.active{
+    background-color: #35bcbf;
+    color: #263849;
+    box-shadow: 5px 10px 30px #258586;
+}
+
+nav img{
+    height: 40px;
+    margin: 0px 20px;
+}
+
+.c1 { 
+	color: #90f6d7; 
+}
+	
+.c2 { 
+	color: #35bcbf; 
+}
+
+.c3 { 
+	color: #41506b; 
+}
+
+.c4 { 
+	color: #263849; 
+}
+
+/* Nav end */
+
+.login{
+    margin-top: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.login input{
+    padding: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    outline: none;
+    transition: 0.5s ease-in-out;
+}
+
+.login input:focus{
+    border: #35bcbf 2px solid;
+}
+
+.login button{
+    padding: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    transition: 0.3s ease-in-out;
+    box-sizing: content-box;
+    background-color: transparent;
+}
+
+.login button:hover{
+    color: white;
+    background-color: #35bcbf;
+}
+
+.login input, .login button{
+    width: 320px;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginbox{
+    padding: 40px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    backdrop-filter: blur(5px);
+    box-shadow:  5px 10px 30px #35bdbf88;
+    z-index: 1;
+}
+
+.background {
+    position:  absolute;
+    display:  block;
+    top: 0;
+    left: 0;
+  } 
+

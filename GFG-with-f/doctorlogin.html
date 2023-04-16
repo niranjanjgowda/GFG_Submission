@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="userlogin.css"/>
+    <title>User Login</title>
+</head>
+<body>
+    <section class="main">
+        <script>
+            window.onload = function() {
+               Particles.init({
+                   selector: '.background',
+                   maxParticles: 400,
+                   color: ['#35bcbf','#90f6d7'],
+                   connectParticles: true
+               });
+           };
+       </script>
+        <nav>
+            <a href="#" class="logo">
+                <img src="assets/logo.png" alt="logo"/>
+            </a>
+
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Dashboard</a></li>
+                <li><a href="#">Login</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+
+            <a href="#" class="usericon">
+                <img src="assets/user.webp" alt="usericon"/>
+            </a>
+        </nav>  
+        <div class="login">
+            <div class="loginbox">  
+                <form action="http://localhost/GFG-with-f/dashboardDoctor.php" method="post">
+                    <input type="tel" name="username" placeholder="Username" required/><br>
+                    <input type="password" placeholder="Password"/><br>
+                    <input class="sub" type="submit" value="Submit" onclick="location.href = 'http://localhost/GFG-with-f/dashboardDoctor.php';">
+                </form>
+            </div>
+        </div>
+    </section>
+    <canvas class="background"></canvas>
+    <script src="assets/particles.min.js"></script>
+</body>
+</html>
