@@ -49,13 +49,27 @@
   
 ### Built With
 
+
+  
 ## Web URL
 
 <p id="url">URL :- http://34.131.232.217/index.html </p>
 
-### Interact
-
+### Interact/collab with  
+  
 <p id="interact"></p>
+<div align="center">
+ <a href="https://www.amd.com/en.html">
+    <img src="Assets/R.png" alt="Logo" width="120" height="70">
+  </a></t>
+  <a href="https://cloud.google.com/">
+    <img src="Assets/Google-Cloud-Logo.png" alt="Logo" width="120" height="70">
+  </a></t>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="Assets/R (1).png" alt="Logo" width="120" height="70">
+  </a>
+</div>
+
 
 ### Video Sample of the Project
 
