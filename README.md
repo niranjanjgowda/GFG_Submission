@@ -43,7 +43,7 @@
   
 ## Web URL
 
-<p id="url">URL :- http://34.131.232.217/index.html </p>
+<p id="url">URL :- http://34.131.206.12/ </p>
 
 ### Interact/collab with  
   
