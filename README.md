@@ -108,8 +108,11 @@ LinkedIn - [@nishamahamed](https://www.linkedin.com/in/nishamahamed/) </br>
 <div class="images">
   <h2>Amd Instance Used : <h2>
   <img src="AMD.png">
+  <h2>Home Page: <h2>
   <img src="Homepage.png">
+  <h2> DashBoard for Patient with Details and Complications <h2>
   <img src="User DashBoard.png">
+  <h2>DashBoard for Doctor with details and Patients they treat<h2>
   <img src="Doctor DashBoard.png">
   </div>
 
