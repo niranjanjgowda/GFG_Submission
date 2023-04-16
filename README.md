@@ -11,7 +11,7 @@
     <a href="#brief"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="http://34.131.232.217/index.html">View Demo</a>
+    <a href="http://34.131.206.12/">View Demo</a>
     ·
     <a href="https://github.com/shareefmx/GFG_hackathon/issues">Report Bug</a>
     ·
