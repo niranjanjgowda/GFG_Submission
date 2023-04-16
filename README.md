@@ -25,12 +25,7 @@
   <summary>Table of Contents</summary>
   </br>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#url">Web App URL</a></li>
     <li><a href="#interact">Interact</a></li>
     <li><a href="#Video">Video Sample of the Project</a></li>
@@ -46,10 +41,6 @@
   Inspired by Government of India's proposal for creating a unified information exchange for medical records, We explored the possible implementation for the same using Aadhar as a medium to Identify patient and store their data as Aadhar number is unique to each citizen.
 
   Leveraging Google cloud's vast network and it's scale to cater Indian consumer with added backing of versatile vm instances of amd to depoly our website we will be able to revolutionize Indian medical ecosystem.
-  
-### Built With
-
-
   
 ## Web URL
 
