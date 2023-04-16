@@ -5,7 +5,9 @@
   <a href="https://github.com/shareefmx/GFG_hackathon">
     <img src="Assets/7ibrqu.gif" alt="Logo" width="300" height="180">
   </a>
+  <div class="images">
   <img src="AMD.png" width="300" height="300" object-fit="cover">
+  </div>
 
   <br />
   <p align="center">
