@@ -5,10 +5,6 @@
   <a href="https://github.com/shareefmx/GFG_hackathon">
     <img src="Assets/7ibrqu.gif" alt="Logo" width="300" height="180">
   </a>
-  <div class="images">
-  <img src="AMD.png" width="300" height="300" object-fit="cover">
-  </div>
-
   <br />
   <p align="center">
     <br />
@@ -108,4 +104,11 @@ LinkedIn - [@nikhilkamate](https://www.linkedin.com/in/nikhil-k-9a457a242/) </br
 Name - Nisham Ahamed </br>
 GitHub - https://github.com/ahamednisham </br>
 LinkedIn - [@nishamahamed](https://www.linkedin.com/in/nishamahamed/) </br>
+
+<div class="images">
+  <img src="AMD.png">
+  <img src="Homepage.png">
+  <img src="User DashBoard.png">
+  <img src="Doctor DashBoard.png">
+  </div>
 
